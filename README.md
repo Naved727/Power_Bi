@@ -18,5 +18,10 @@ Project- key points
 • Dashboard design
 • Sharing Insights
 
+Dataset link for Details Table :-
+<https://github.com/Naved727/Power_Bi/blob/main/Details.csv>
+For orders table :-
+
+
 Screenshot of Dashboard How it looks like :-
 <https://github.com/Naved727/Power_Bi/blob/main/Screenshot%202025-09-26%20084400.png>
