@@ -20,8 +20,9 @@ Project- key points
 
 Dataset link for Details Table :-
 <https://github.com/Naved727/Power_Bi/blob/main/Details.csv>
-For orders table :-
 
+For orders table :-
+<https://github.com/Naved727/Power_Bi/blob/main/Orders.csv>
 
 Screenshot of Dashboard How it looks like :-
 <https://github.com/Naved727/Power_Bi/blob/main/Screenshot%202025-09-26%20084400.png>
