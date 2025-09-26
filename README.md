@@ -17,3 +17,6 @@ Project- key points
 • Data visualization
 • Dashboard design
 • Sharing Insights
+
+Screenshot of Dashboard How it looks like :-
+<https://github.com/Naved727/Power_Bi/blob/main/Screenshot%202025-09-26%20084400.png>
